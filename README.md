@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kingdavie95
-- 👀 I’m interested in Data Analysis and video games.
-- 🌱 I’m currently learning Machine Learning and AI
+- 👀 I’m interested in Data Analysis and Digital Driven Project
+- 🌱 Machine Learning and AI Enthusiast
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me - davieandy95@gmail.com
 
